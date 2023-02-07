@@ -1,0 +1,25 @@
+v 3
+file . "PhaseAccumulator.vhd" "20220620181446.000" "20220621111716.441":
+  entity phaseaccumulator at 2( 1) + 0 on 477;
+  architecture struct of phaseaccumulator at 22( 325) + 0 on 478;
+file . "tb_DDFS.vhd" "20220621091712.000" "20220621111716.442":
+  entity tb_ddfs at 2( 1) + 0 on 483;
+  architecture struct of tb_ddfs at 12( 148) + 0 on 484;
+file . "rca.vhd" "20220620181428.000" "20220621111716.441":
+  entity rca at 2( 1) + 0 on 479;
+  architecture struct of rca at 25( 377) + 0 on 480;
+file . "fa.vhd" "20220511121454.000" "20220621111716.308":
+  entity fa at 2( 1) + 0 on 473;
+  architecture rtl of fa at 14( 177) + 0 on 474;
+file . "reg.vhd" "20220620181434.000" "20220621111716.441":
+  entity reg at 2( 2) + 0 on 481;
+  architecture rtl of reg at 16( 277) + 0 on 482;
+file . "dflipflop.vhd" "20220511121052.000" "20220621111716.308":
+  entity dflipflop at 2( 2) + 0 on 471;
+  architecture behaviour of dflipflop at 14( 352) + 0 on 472;
+file . "DDFS.vhd" "20220621012132.000" "20220621111716.308":
+  entity ddfs at 2( 1) + 0 on 469;
+  architecture struct of ddfs at 21( 598) + 0 on 470;
+file . "LUT_DDFS_UN_256x8.vhd" "20220620190330.000" "20220621111716.440":
+  entity lut_ddfs at 1( 0) + 0 on 475;
+  architecture rtl of lut_ddfs at 15( 250) + 0 on 476;
