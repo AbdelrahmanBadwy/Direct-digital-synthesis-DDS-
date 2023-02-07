@@ -8,7 +8,8 @@ Schematic Diagram (Circuit Diagram):
 
 Generated Waves
 1. Square wave.
-1
+![197239574-f0e66049-f372-4bef-83e8-23dea5877d31](https://user-images.githubusercontent.com/107257581/217373516-fea0cfe4-4b72-4245-b2d2-82a355ac4a24.jpeg)
+
 
 2. Sine wave.
 2
