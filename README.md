@@ -12,13 +12,15 @@ Generated Waves
 
 
 2. Sine wave.
-2
+![197239584-a561b08f-a18b-4bc0-b76d-4995aac058a2](https://user-images.githubusercontent.com/107257581/217373661-0a386d93-c41d-4644-bf94-d6d783b2ab7b.jpeg)
+
 
 3. Single positive triangular wave.
-3
+![197239597-13ea5aa7-7b13-4991-9381-ec43ea6c530e](https://user-images.githubusercontent.com/107257581/217373694-c463d5f4-d4d2-49c6-a1e4-f52fcbfe67cb.jpeg)
+
 
 4. Single negative triangular wave.
-4
+![197239607-5a1d886e-da9e-4465-a6cd-95c3d2460707](https://user-images.githubusercontent.com/107257581/217373731-ea50a9b1-5a68-4808-801b-9d754ef72a00.jpeg)
 
 5. Double sided triangular wave.
 5
