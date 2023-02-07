@@ -23,13 +23,17 @@ Generated Waves
 ![197239607-5a1d886e-da9e-4465-a6cd-95c3d2460707](https://user-images.githubusercontent.com/107257581/217373731-ea50a9b1-5a68-4808-801b-9d754ef72a00.jpeg)
 
 5. Double sided triangular wave.
-5
+![197239623-45d237c3-c86f-404b-9add-4888b9d59cf6](https://user-images.githubusercontent.com/107257581/217373914-e77642fb-c9ef-4b8b-82c0-d04417459c1b.jpeg)
+
 
 6. Single sided positive staircase wave.
-6
+![197239639-8a8d442b-8c98-4c56-abe0-4bf3d359afee](https://user-images.githubusercontent.com/107257581/217373939-60f6c144-fb6b-46a8-b67a-ac64a37ee1fd.jpeg)
+
 
 7. Single sided negative staircase wave.
-7
+![197239657-babc7144-849a-4ce7-a64d-74f7062d9983](https://user-images.githubusercontent.com/107257581/217373958-18eb6490-0e4a-4b2b-961a-2f498300759e.jpeg)
+
 
 8. Double sided staircase wave.
-8
+![197239675-43e7b399-55d3-44ed-a680-74d67f2ec366](https://user-images.githubusercontent.com/107257581/217374001-7dbf29e2-8296-480e-b4e1-9f61a8a57745.jpeg)
+
