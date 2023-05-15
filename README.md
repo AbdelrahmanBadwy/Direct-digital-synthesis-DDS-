@@ -1,6 +1,26 @@
-# Direct-digital-synthesis-DDS-
-Project Objective
-Direct digital synthesis (DDS) is a method of producing an analog waveform—usually a sine wave—by generating a time-varying signal in digital form and then performing a digital-to-analog conversion. Because operations within a DDS device are primarily digital, it can offer fast switching between output frequencies, fine frequency resolution, and operation over a broad spectrum of frequencies. A direct digital synthesizer operates by storing the points of a waveform in digital format, and then recalling them to generate the waveform. The rate at which the synthesizer completes one waveform then governs the frequency.
+Sure. Here is the README file without the "How to Use" section:
+
+
+# Direct Digital Synthesis (DDS) in VHDL
+
+This project implements a direct digital synthesizer (DDS) in VHDL. The DDS can be used to generate arbitrary waveforms, such as sine waves, square waves, and sawtooth waves.
+
+## Features
+
+* Supports arbitrary waveforms
+* Can be used to generate sine waves, square waves, and sawtooth waves
+* Can be used to generate complex waveforms
+* Can be used to generate waveforms with arbitrary frequency and amplitude
+* Can be used to generate waveforms with arbitrary phase
+
+## Getting Started
+
+1. Clone this repository.
+2. Open the project in a VHDL simulator such as ModelSim or GHDL.
+3. Run the simulation.
+
+
+
 
 Schematic Diagram (Circuit Diagram):
 ![197239007-7a587d08-1c18-4726-94d1-89fe3537e2c3](https://user-images.githubusercontent.com/107257581/217372513-676fe204-33b8-4cca-ab19-9d9ef3e04509.png)
@@ -37,3 +57,10 @@ Generated Waves
 8. Double sided staircase wave.
 ![197239675-43e7b399-55d3-44ed-a680-74d67f2ec366](https://user-images.githubusercontent.com/107257581/217374001-7dbf29e2-8296-480e-b4e1-9f61a8a57745.jpeg)
 
+
+
+
+## Contact
+
+If you have any questions or feedback, please contact me at [abdoo738@yahoo.com].
+or on my LinkedIn [https://www.linkedin.com/in/abdelrahman-badawy-4517a6231/].
