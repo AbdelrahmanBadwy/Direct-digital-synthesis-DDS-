@@ -22,11 +22,13 @@ This project implements a direct digital synthesizer (DDS) in VHDL. The DDS can 
 
 
 
-Schematic Diagram (Circuit Diagram):
+## Schematic Diagram (Circuit Diagram):
+
 ![197239007-7a587d08-1c18-4726-94d1-89fe3537e2c3](https://user-images.githubusercontent.com/107257581/217372513-676fe204-33b8-4cca-ab19-9d9ef3e04509.png)
 
 
-Generated Waves
+## Generated Waves
+
 1. Square wave.
 ![197239574-f0e66049-f372-4bef-83e8-23dea5877d31](https://user-images.githubusercontent.com/107257581/217373516-fea0cfe4-4b72-4245-b2d2-82a355ac4a24.jpeg)
 
@@ -62,5 +64,6 @@ Generated Waves
 
 ## Contact
 
-If you have any questions or feedback, please contact me at [abdoo738@yahoo.com].
+If you have any questions or feedback, please contact me at [abdoo738@yahoo.com].                
+
 or on my LinkedIn [https://www.linkedin.com/in/abdelrahman-badawy-4517a6231/].
